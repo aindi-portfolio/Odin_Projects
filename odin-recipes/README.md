@@ -1,0 +1,1 @@
+This project focuses on applying everything I learned about HTML. It will end up as a raw HTML document that creates a cooking recipe.
